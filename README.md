@@ -19,7 +19,7 @@ Tunes Bot é um bot para Discord que toca músicas do YouTube diretamente em can
 
 ```bash
 git clone https://github.com/seu-usuario/tunes_bot.git
-cd tunesbot
+cd tunes_bot
 ```
 
 2. Instale as dependências:
