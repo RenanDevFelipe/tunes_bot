@@ -37,7 +37,7 @@ DISCORD_TOKEN = 'seu_token_aqui'
 4. Execute o bot:
 
 ```bash
-python bot.py
+python tunes_bot.py
 ```
 
 
